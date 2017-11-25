@@ -19,4 +19,5 @@ The web crawler script receives up to 4 arguments which are the following:
 The **-url** and **-text** arguments are mandatory in order for the script to work.  
 The **-thr** and the **-pl** arguments are optional.
 
-Example:  python webCrawler.py -url https://www.bbc.com -text have -thr 5 -pl 10
+Example:   
+python webCrawler.py -url https://www.bbc.com -text have -thr 5 -pl 10
